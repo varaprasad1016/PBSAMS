@@ -83,7 +83,6 @@ Django poll app is a full featured polling app. You have to register in this app
 <h2>Author</h2>
 <blockquote>
   varaprasad<br>
-  Email: expelmahmud@gmail.com
 </blockquote>
 
 <div align="center">
